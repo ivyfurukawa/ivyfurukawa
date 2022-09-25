@@ -1,0 +1,61 @@
+body {
+    font-family: "Nunito", sans-serif;
+}
+
+.vl {
+    height: 100px;
+}
+
+.sofiatxt {
+    font-family: "Sofia", sans-serif;
+}
+
+.koho {
+    font-family: "KoHo", sans-serif
+}
+
+div.containter {
+    text-align: center;
+}
+
+ul.centerul {
+    display: inline-block;
+    text-align: center;
+}
+
+.centeralign {
+    text-align: center;
+}
+
+body {
+    background-color: #FFA1A16E;
+    color: #ffffff;
+}
+
+hr {
+    border: none;
+    background-color: #ffffff;
+}
+
+a {
+    color:#ffffff;
+}
+
+#interests {
+    float: left;
+    margin-left: 475px;
+}
+
+#about {
+    float: left;
+    margin-left: 450px;
+}
+
+#social {
+    float: right;
+    margin-right: 475px;
+}
+
+.styledul {
+    font-family: "Sofia", sans-serif;
+}
