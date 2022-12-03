@@ -1,6 +1,6 @@
 <h1>Ivy Furukawa</h1>
 <hr style="width:300px; background-color:white; border:none; height:2px">
-<h2>Your Local Bi Girl</h2>
+<h2>Your Local Lesbian</h2>
 <br><br>
 <h3>i'm ivy, i think.</h3>
 <h4>i'm nothing too special, but i do a bit of trolli- i mean programming sometimes</h4>
